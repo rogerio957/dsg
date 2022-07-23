@@ -1,0 +1,8 @@
+
+
+#EXTM3U
+#EXTINF:-1
+https://hls-hw.xvideos-cdn.com/videos/hls/59/6d/50/596d5079f991715f0566be6f46665b69/hls-1080p.m3u8?e=1658622519&l=0&h=57e1fc7474df12358011a710e7ee31bb
+#EXTINF:-2
+https://cdn77-vid.xvideos-cdn.com/mNibTziZirAYhCJLXiJfuw==,1658622677/videos_new/hls/e6/a3/e9/e6a3e9421e14a28e0cc5a12cc239a21c/hls-1080p-42fc8.m3u8
+#EXTINF:-3
